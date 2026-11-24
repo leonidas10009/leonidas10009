@@ -41,7 +41,7 @@
 ## Links
 
 - Releases: [Apollo 2026](https://github.com/leonidas10009/Apollo_2026/releases) · [Artemis 2026](https://github.com/leonidas10009/Artemis-2026/releases) · [Artemis PC](https://github.com/leonidas10009/Artemis-pc/releases)
-- Documentation: [ApolloInput Nova API](https://leonidas10009.github.io/apollo_input/)
+- Documentation: [Apollo 2026 docs](https://leonidas10009.github.io/apollo-2026-docs/) · [ApolloInput Nova API](https://leonidas10009.github.io/apollo_input/)
 
 ---
 
